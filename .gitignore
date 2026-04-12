@@ -1,3 +1,14 @@
-.env
-venv/
+# Python
 __pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Secrets
+.env
+
+# Logs
+logs/
+KMS/logs/
+*.log
